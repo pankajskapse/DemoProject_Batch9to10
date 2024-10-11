@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T18:27:12 IST" name="Default suite" finished-at="2024-10-10T18:27:21 IST" duration-ms="8868">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T18:27:12 IST" name="Default test" finished-at="2024-10-10T18:27:21 IST" duration-ms="8868">
+      <class name="SeleniumTraining.MorningBatch.POM_login">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:12 IST" name="setUP" finished-at="2024-10-10T18:27:15 IST" duration-ms="2960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="openEnquiryListPage()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:15 IST" name="openEnquiryListPage" finished-at="2024-10-10T18:27:15 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openEnquiryListPage -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:15 IST" name="closeDriver" finished-at="2024-10-10T18:27:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:15 IST" name="setUP" finished-at="2024-10-10T18:27:17 IST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="openEnquiryPage()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:17 IST" name="openEnquiryPage" finished-at="2024-10-10T18:27:18 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openEnquiryPage -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:18 IST" name="closeDriver" finished-at="2024-10-10T18:27:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:18 IST" name="setUP" finished-at="2024-10-10T18:27:20 IST" duration-ms="1759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="openFollowUpPage()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:20 IST" name="openFollowUpPage" finished-at="2024-10-10T18:27:21 IST" duration-ms="1044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFollowUpPage -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:SeleniumTraining.MorningBatch.POM_login@f6efaab]" started-at="2024-10-10T18:27:21 IST" name="closeDriver" finished-at="2024-10-10T18:27:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- SeleniumTraining.MorningBatch.POM_login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

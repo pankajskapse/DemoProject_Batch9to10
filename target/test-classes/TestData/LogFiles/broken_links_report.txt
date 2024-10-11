@@ -1,0 +1,60 @@
+https://thedinfotech.wordpress.com/#wp--skip-link--target is valid. Response code: 200
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/about/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/services/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/store/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/training/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/training/# is valid. Response code: 200
+https://thedinfotech.wordpress.com/training/# is valid. Response code: 200
+https://thedinfotech.wordpress.com/?page_id=248 is valid. Response code: 200
+https://thedinfotech.wordpress.com/page-not-found-404/ is valid. Response code: 200
+https://www.facebook.com/profile.php?id=61565464610143 is valid. Response code: 200
+Exception occurred for link: https://# -> Failed to select a proxy
+https://forms.gle/HBZLRorSAmJ28ejb9 is valid. Response code: 200
+https://forms.gle/HBZLRorSAmJ28ejb9 is valid. Response code: 200
+https://forms.gle/HBZLRorSAmJ28ejb9 is valid. Response code: 200
+https://thedinfotech.wordpress.com/store/ is valid. Response code: 200
+Exception occurred for link: https://# -> Failed to select a proxy
+Exception occurred for link: https://# -> Failed to select a proxy
+Exception occurred for link: https://# -> Failed to select a proxy
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fthedinfotech.wordpress.com%2F2024%2F01%2F31%2Fhello-world%2F&signup_flow=account is valid. Response code: 200
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/wp-admin/site-editor.php?postType=wp_template&postId=pub/creatio-2//home is valid. Response code: 200
+https://wordpress.com/start/ is valid. Response code: 200
+https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fthedinfotech.wordpress.com%2F2024%2F01%2F31%2Fhello-world%2F&signup_flow=account is valid. Response code: 200
+https://wordpress.com/abuse/?report_url=https://thedinfotech.wordpress.com is valid. Response code: 200
+https://wordpress.com/read/feeds/161473856 is valid. Response code: 200
+https://subscribe.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/#wp--skip-link--target is valid. Response code: 200
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/about/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/services/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/store/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/training/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/training/# is valid. Response code: 200
+https://thedinfotech.wordpress.com/training/# is valid. Response code: 200
+https://thedinfotech.wordpress.com/?page_id=248 is valid. Response code: 200
+https://thedinfotech.wordpress.com/page-not-found-404/ is valid. Response code: 200
+https://www.facebook.com/profile.php?id=61565464610143 is valid. Response code: 200
+Exception occurred for link: https://# -> Failed to select a proxy
+https://forms.gle/HBZLRorSAmJ28ejb9 is valid. Response code: 200
+https://forms.gle/HBZLRorSAmJ28ejb9 is valid. Response code: 200
+https://forms.gle/HBZLRorSAmJ28ejb9 is valid. Response code: 200
+https://thedinfotech.wordpress.com/store/ is valid. Response code: 200
+Exception occurred for link: https://# -> Failed to select a proxy
+Exception occurred for link: https://# -> Failed to select a proxy
+Exception occurred for link: https://# -> Failed to select a proxy
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fthedinfotech.wordpress.com%2F2024%2F01%2F31%2Fhello-world%2F&signup_flow=account is valid. Response code: 200
+https://thedinfotech.wordpress.com/ is valid. Response code: 200
+https://thedinfotech.wordpress.com/wp-admin/site-editor.php?postType=wp_template&postId=pub/creatio-2//home is valid. Response code: 200
+https://wordpress.com/start/ is valid. Response code: 200
+https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fthedinfotech.wordpress.com%2F2024%2F01%2F31%2Fhello-world%2F&signup_flow=account is valid. Response code: 200
+https://wordpress.com/abuse/?report_url=https://thedinfotech.wordpress.com is valid. Response code: 200
+https://wordpress.com/read/feeds/161473856 is valid. Response code: 200
+https://subscribe.wordpress.com/ is valid. Response code: 200
